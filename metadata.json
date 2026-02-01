@@ -1,0 +1,7 @@
+{
+  "name": "Chronos AI Clock",
+  "description": "A high-end, Samsung-inspired minimalist clock app with AI-driven weather insights, 3D flip clock animations, and a smart daily brief.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
